@@ -1,0 +1,1 @@
+let drink: string = "coffee";
